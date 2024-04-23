@@ -1,0 +1,6 @@
+if SHIELD_MAC3
+
+config ZMK_KEYBOARD_NAME
+    default "mac3"
+
+endif
