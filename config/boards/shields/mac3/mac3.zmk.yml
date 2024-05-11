@@ -1,0 +1,11 @@
+file_format: "1"
+id: enki42
+name: The enki42 
+type: shield
+url: https://github.com/SlingThat/zmk-config-mac3
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - mac3
+  - mac3_dongle
