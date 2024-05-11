@@ -1,6 +1,6 @@
 file_format: "1"
-id: enki42
-name: The enki42 
+id: mac3
+name: mac3
 type: shield
 url: https://github.com/SlingThat/zmk-config-mac3
 requires: [pro_micro]
